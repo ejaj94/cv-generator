@@ -1,0 +1,15 @@
+# Python virtual environments and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Configuration and credentials
+.env
+git-credentials
+
+# Output documents (compiled PDFs)
+*.pdf
